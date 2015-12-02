@@ -1,4 +1,4 @@
-người nào      
+﻿người nào      
 Ai
 ai
 ai nào
@@ -12,3 +12,4 @@ là những ai nào
 là những người nào
 vị vua nào
 nhân vật nào
+vị tướng nào
