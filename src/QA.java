@@ -2,6 +2,7 @@ import java.io.IOException;
 import java.util.Scanner;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
+import vn.hus.nlp.tagger.VietnameseMaxentTagger;
 
 public class QA {
 	public static boolean FindTypeQuestion(String FileName, String question) throws FileNotFoundException{
@@ -22,7 +23,6 @@ public class QA {
 		 return false;
 	}
 	public static void main(String[] args){
-		// TODO Auto-generated method stub
 		 Scanner scanIn=new Scanner(System.in);
 		 String question="";
 		 System.out.println("Nhập vào câu hỏi:");
@@ -55,5 +55,10 @@ public class QA {
 		 	case 2: System.out.println("Câu hỏi về thời gian!"); break;
 		 	case 3: System.out.println("Câu hỏi về địa điểm!"); break;
 		 }
+		 
+		 
+		 VietnameseMaxentTagger tagger = new VietnameseMaxentTagger();
+		 String tagged = tagger.tagText(question);
+		 System.out.println(tagged);
 	}
 }
