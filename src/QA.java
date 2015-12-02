@@ -16,7 +16,13 @@ public class QA {
 		 		finItLength = findIt.length(); 
 		 		for (int i = 0; i <= (questionLength - finItLength); i++) {
 		 		   if (question.regionMatches(true , i, findIt, 0, finItLength)) {
-		 			  return true;
+		 			  System.out.println(question.substring(i, i + finItLength)+ " " + i);
+		 			  String resutlSearch = question.substring(i, i + finItLength);
+		 			  if(i != 0){
+		 				 if(question.substring(i-1, i).equals(" ")){
+		 					return true;
+		 				 }
+		 			  }else return true;		 			  
 		 		   }
 		 		}
 	     }
