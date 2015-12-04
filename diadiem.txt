@@ -1,46 +1,92 @@
 ở đâu
+Ở đâu
 nơi nào
+Nơi nào
 chốn nào
+Chốn nào
 làng nào
+Làng nào
 xã nào
+Xã nào
 huyện nào
+Huyện nào
 tỉnh nào
+Tỉnh nào
 vùng quê nào
+Vùng quê nào
 ấp nào
+Ấp nào
 đường nào
+Đường nào
 thôn nào
+Thôn nào
 kinh đô nào
+Kinh đô nào
 thủ đô nào
+Thủ đô nào
 kinh thành nào
+Kinh thành nào
 quận nào
-phủ nào
+Quận nào
+Phủ nào
+Phủ nào
 xóm nào
+Xóm nào
 núi nào
+Núi nào
 sông nào
+Sông nào
 đập nào
+Đập nào
 đảo nào
+Đảo nào
 suối nào
+Suối nào
 biển nào
+Biển nào
 con kênh nào
+Con kênh nào
 vùng nào
+Vùng nào
 hồ nào
+Hồ nào
 cầu nào
+Cầu nào
 địa phương nào
+Địa phương nào
 huyện đảo nào
+Huyện đảo nào
 rừng nào
+Rừng nào
 ao nào
+Ao nào
 cù lao nào
+Cù lao nào
 địa phận nào
+Địa phận nào
 vịnh nào
+Vịnh nào
 đại dương nào
+Đại dương nào
 khu vực nào
+Khu vực nào
 vùng đất nào
+Vùng đất nào
 mặt trận nào
+Mặt trận nào
 thị trấn nào
+Thị trấn nào
 thị xã nào
+Thị xã nào
 đô thị nào
+Đô thị nào
 thành phố nào
+Thành phố nào
 khu nào
+Khu nào
 miền nào
+Miền nào
 cảng nào
+Cảng nào
 phủ nào
+Phủ nào

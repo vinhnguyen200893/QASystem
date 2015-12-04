@@ -1,28 +1,56 @@
+Ngày nào
 ngày nào
+Thời điểm nào
 thời điểm nào
+Lúc nào
 lúc nào
+Thời gian nào
 thời gian nào
+Quãng thời gian nào
 quãng thời gian nào
+Khoảng thời gian nào
 khoảng thời gian nào
+Mốc thời gian nào
 mốc thời gian nào
+Thời nào
 thời nào
+Thời kỳ nào
 thời kỳ nào
+Giờ nào
 giờ nào
+Giờ phút nào
 giờ phút nào
+Giây phút nào
 giây phút nào
+Phút giây nào
 phút giây nào
+Khoảnh khắc nào
 khoảnh khắc nào
+Năm nào
 năm nào
+Bao nhiêu năm
 bao nhiêu năm
+Bao nhiêu tháng
 bao nhiêu tháng
+Bao nhiêu ngày
 bao nhiêu ngày
+Bao lâu
 bao lâu
+Từ năm nào đến năm nào
 từ năm nào đến năm nào
+Vào lúc nào
 vào lúc nào
+Hồi nào
 hồi nào
+Tháng nào
 tháng nào
+Khi nào
 khi nào
+Năm tháng nào
 năm tháng nào
+Ngày tháng nào
 ngày tháng nào
+Ngày tháng năm nào
 ngày tháng năm nào
+Thể kỷ nào
 thế kỷ nào

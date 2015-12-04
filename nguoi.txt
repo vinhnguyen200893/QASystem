@@ -1,44 +1,78 @@
-﻿Ai
-ai
-vị vua nào
+﻿Vị tướng nào      
 vị tướng nào
+Ai
+ai
+Vị vua nào
+vị vua nào
+Tướng giặc nào
 tướng giặt nào
+Tên giặc nào
 tên giặc nào
+Anh hùng nào
 anh hùng nào
+Hoàng tử nào
 hoàng tử nào
+Thái tử nào
 thái tử nào
+Công chúa nào
 công chúa nào
+Công nương nào
 công nương nào
-công thần nào
-công tử nào
-vương gia nào
-quý tộc nào
+Hoàng hậu nào
 hoàng hậu nào
+Đại thần nào
 đại thần nào
+Người nào
 người nào
+Vị quan nào
 vị quan nào
+Hoàng đế nào
 hoàng đế nào
+Tướng quân nào
 tướng quân nào
+Trung thần nào
 trung thần nào
+Nhà cách mạng nào
 nhà cách mạng nào
+Thi hào nào
 thi hào nào
+Nhà thơ nào
 nhà thơ nào
+Nữ vương nào
 nữ vương nào
+Nữ hoàng nào
 nữ hoàng nào
-chiến sĩ nào
+Nữ chiến sĩ nào
+nữ chiến sĩ nào
+Tư lệnh nào
 tư lệnh nào
+Thi sĩ nào
 thi sĩ nào
+Hòa thượng nào
 hòa thượng nào
+Tổng thống nào
 tổng thống nào
+Nhân vật nào
 nhân vật nào
+Thái giám nào
 thái giám nào
+Vương phi nào
 vương phi nào
+Thái hậu nào
 thái hậu nào
+Đại nhân nào
 đại nhân nào
+Đại thần nào
 đại thần nào
+Khâm sai nào
 khâm sai nào
+Chúa nào
 chúa nào
+Tể tướng nào
 tể tướng nào
+Thừa tướng nào
 thừa tướng nào
+Sứ giả nào
 sứ giả nào
+Thái sư nào
 thái sư nào

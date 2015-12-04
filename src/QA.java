@@ -9,16 +9,22 @@ public class QA {
 		FileInputStream fis = new FileInputStream(FileName);
 		 Scanner scanner = new Scanner(fis);
 		 int questionLength = question.length();
-		 String findIt = "";
-		 int  finItLength = 0;
+		 String findIt;
+		 int  finItLength;
 		 while(scanner.hasNextLine()){
 	            findIt = scanner.nextLine().trim();
 		 		finItLength = findIt.length(); 
 		 		for (int i = 0; i <= (questionLength - finItLength); i++) {
-		 		   if (question.regionMatches(i, findIt, 0, finItLength)) {
-		 			  return true;
+		 		   if (question.regionMatches(true , i, findIt, 0, finItLength)) {
+		 			  System.out.println(question.substring(i, i + finItLength)+ " " + i);
+		 			  String resutlSearch = question.substring(i, i + finItLength);
+		 			  if(i != 0){
+		 				 if(question.substring(i-1, i).equals(" ")){
+		 					return true;
+		 				 }
+		 			  }else return true;		 			  
 		 		   }
-		 		  }
+		 		}
 	     }
 		 return false;
 	}
