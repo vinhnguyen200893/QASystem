@@ -1,12 +1,28 @@
-bao giờ
-Bao giờ
 ngày nào
-Ngày nào
-là ngày nào
-vào ngày nào
+thời điểm nào
 lúc nào
-Lúc nào
+thời gian nào
+quãng thời gian nào
+khoảng thời gian nào
+mốc thời gian nào
+thời nào
+thời kỳ nào
+giờ nào
+giờ phút nào
+giây phút nào
+phút giây nào
+khoảnh khắc nào
+năm nào
+bao nhiêu năm
+bao nhiêu tháng
+bao nhiêu ngày
+bao lâu
+từ năm nào đến năm nào
 vào lúc nào
-là lúc nào
+hồi nào
+tháng nào
 khi nào
-Khi nào
+năm tháng nào
+ngày tháng nào
+ngày tháng năm nào
+thế kỷ nào
